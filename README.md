@@ -34,7 +34,7 @@ The scraped data is output as JSON files inside the `/storage/raw/` folder. Erro
 
 ## What's Next
 
-I realized that this project was not working as intended and the websites were full of dynamic content, so I've moved on to a more powerful crawler that handles dynamic content, called [blade](https://github.com/Dark-Rays/blade). It uses Playwright and Crawlee which can be a better solution if you want to scrape more complex websites.
+I realized that this project was not working as intended and the websites were full of dynamic content, so I've moved on to a more powerful crawler that handles dynamic content, called [blade](https://github.com/0-jd/blade). It uses Playwright and Crawlee which can be a better solution if you want to scrape more complex websites.
 
 ## Disclaimer
 
